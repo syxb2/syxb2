@@ -7,8 +7,8 @@
 
 ### More information 📚:
 
-* Homepage: [https://syxb2.github.io/myblog/](https://syxb2.github.io/myblog/)📃
-* Bilibili: [https://space.bilibili.com/24550465?spm_id_from=333.1007.0.0](https://space.bilibili.com/24550465?spm_id_from=333.1007.0.0)📃
+* Homepage: [https://syxb2.github.io/myblog/](https://syxb2.github.io/myblog/) 📃
+* Bilibili: [https://space.bilibili.com/24550465?spm_id_from=333.1007.0.0](https://space.bilibili.com/24550465?spm_id_from=333.1007.0.0) 📃
 
 ***
 
