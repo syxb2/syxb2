@@ -1,4 +1,4 @@
-## Hi this is syxb2 👋
+## Hi, this is syxb2 👋
 
 #### Student @ University of University of Electronic Science and Technology of China
 
