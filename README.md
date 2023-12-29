@@ -12,7 +12,7 @@
 
 ***
 
-> Technology alone is not enough, it's technology married with liberal arts married with humanities that makes our heart sing.    -- Steve Jobs
+> Technology alone is not enough. It's technology married with liberal arts married with humanities that makes our heart sing.    -- Steve Jobs
 
 <!--
 **syxb2/syxb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
