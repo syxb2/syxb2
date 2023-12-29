@@ -10,6 +10,8 @@
 * Homepage: [https://syxb2.github.io/myblog/](https://syxb2.github.io/myblog/)
 * Bilibili: [https://space.bilibili.com/24550465?spm_id_from=333.1007.0.0](https://space.bilibili.com/24550465?spm_id_from=333.1007.0.0)
 
+> Technology alone is not enough,it's technology married with liberal arts married with humanities that makes our heart sing. -- Steve Jobs
+
 <!--
 **syxb2/syxb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
