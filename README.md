@@ -7,7 +7,7 @@
 
 ### More information📚:
 
-* Homepage: [https://syxb2.github.io/myblog/](https://syxb2.github.io/myblog/) 📃
+* Homepage: [https://syxb2.github.io](https://syxb2.github.io) 📃
 * Bilibili: [https://space.bilibili.com/24550465](https://space.bilibili.com/24550465) 📃
 
 ***
