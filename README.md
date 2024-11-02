@@ -7,8 +7,9 @@
 
 ### More information📚:
 
-* Homepage: [https://syxb2.github.io](https://syxb2.github.io) 📃
-* Bilibili: [https://space.bilibili.com/24550465](https://space.bilibili.com/24550465) 📃
+* [Homepage](https://syxb2.github.io)
+* [Bilibili](https://space.bilibili.com/24550465)
+* [Xiaohongshu](https://www.xiaohongshu.com/user/profile/63caa3bd0000000026006cf2)
 
 ***
 
