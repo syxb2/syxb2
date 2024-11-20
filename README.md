@@ -3,7 +3,7 @@
 #### A student🧑🏻 @ University of University of Electronic Science and Technology of China🏫
 
 * ✏️: c / python
-* ⚒️: MacOS / Visual Studio Code / obsidian
+* ⚒️: MacOS / Visual Studio Code / Obsidian
 
 ### More information📚:
 
