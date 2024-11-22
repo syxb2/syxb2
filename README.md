@@ -2,12 +2,12 @@
 
 **A student 🧑🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
-### I mainly 🔍:
+#### I mainly 🔍:
 
 * ✏️ : C / Python
 * ⚒️ : MacOS / Visual Studio Code / Obsidian
 
-### More information 📚:
+#### More information 📚:
 
 * 🔗 : [Homepage](https://syxb2.github.io) / [Bilibili](https://space.bilibili.com/24550465) / [Xiaohongshu](https://www.xiaohongshu.com/user/profile/63caa3bd0000000026006cf2)
 
