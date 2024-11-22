@@ -1,4 +1,4 @@
-# Hi 👋🏻, this is syxb2 🙋🏻
+## Hi 👋🏻, this is syxb2 🙋🏻
 
 **A student 🧑🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
@@ -13,11 +13,13 @@
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syxb2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ***
 
 > Technology alone is not enough. It's technology married with liberal arts married with humanities that makes our heart sing. -- Steve Jobs
+-->
+
+--
 
 ![syxb2's GitHub stats](https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight)
 
