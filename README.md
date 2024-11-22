@@ -1,6 +1,5 @@
 ## Hi 👋🏻, this is syxb2 🙋🏻
 
-<a href="https://github.com/iBug">
 <img
   src="https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight"
   title="syxb2&#039;s GitHub Stats"
