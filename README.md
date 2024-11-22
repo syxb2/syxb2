@@ -1,6 +1,4 @@
-### Hi there 👋🏻, this is syxb2 🙋🏻
-
---
+## Hi there 👋🏻, this is syxb2 🙋🏻
 
 **A student 🧑🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
