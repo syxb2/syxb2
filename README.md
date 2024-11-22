@@ -2,7 +2,9 @@
 
 **A student 🧑🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
--- <img src="https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight" title="syxb2&#039;s GitHub Stats" align="right" width="60%"/>
+-- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight" title="syxb2&#039;s GitHub Stats" align="right" width="60%"/>
 
 **I mainly 🔍:**
 
