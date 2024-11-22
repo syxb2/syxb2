@@ -11,7 +11,15 @@
 
 * 🔗 : [Homepage](https://syxb2.github.io) / [Bilibili](https://space.bilibili.com/24550465) / [Xiaohongshu](https://www.xiaohongshu.com/user/profile/63caa3bd0000000026006cf2)
 
-[![syxb2's GitHub stats](https://github-readme-stats.vercel.app/api?username=syxb2)](https://github.com/anuraghazra/github-readme-stats)
+***
+
+### Top Languages 📈:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syxb2&layout=donut&theme=tokyonight&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Stats 📊:
+
+![syxb2's GitHub stats](https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight)
 
 ***
 
