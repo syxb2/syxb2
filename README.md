@@ -19,10 +19,7 @@
 
 ***
 
-"Technology alone is not enough. It's technology married with liberal arts married with humanities that makes our heart sing." -- Steve Jobs
-
---
-
+> "Technology alone is not enough. It's technology married with liberal arts married with humanities that makes our heart sing." -- Steve Jobs
 
 <!-- align="right" width="60%"/> -->
 
