@@ -1,10 +1,10 @@
-## Hi there 👋🏻, this is syxb2 🙋🏻
+## Hi there, this is syxb2 👋🏻
 
-**A student 🧑🏻 @ University of University of Electronic Science and Technology of China 🏫**
+**A student 🙋🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
 -- 
 
-**I mainly 🔍:**
+**I mainly 🎯:**
 
 * ✏️ : C / Python
 * ⚒️ : MacOS / Visual Studio Code / Obsidian
