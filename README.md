@@ -15,11 +15,14 @@
 
 --
 
-> Technology alone is not enough. It's technology married with liberal arts married with humanities that makes our heart sing. -- Steve Jobs
+<img src="https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight" title="syxb2&#039;s GitHub Stats"/>
+
+***
+
+"Technology alone is not enough. It's technology married with liberal arts married with humanities that makes our heart sing." -- Steve Jobs
 
 --
 
-<img src="https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight" title="syxb2&#039;s GitHub Stats"/>
 
 <!-- align="right" width="60%"/> -->
 
