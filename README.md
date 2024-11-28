@@ -15,7 +15,8 @@
 
 --
 
-<img src="https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&theme=tokyonight" title="syxb2&#039;s GitHub Stats"/>
+[![syxb2's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&rank_icon=github&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![syxb2's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=syxb2&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ***
 
