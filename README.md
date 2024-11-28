@@ -1,15 +1,15 @@
 ## Hi there, this is syxb2 👋🏻
 
-**A student 🙋🏻 @ University of University of Electronic Science and Technology of China 🏫**
+**A undergraduate 🙋🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
 -- 
 
 **I mainly 🎯:**
 
-* ✏️ : C / Python
+* ✏️ : c / python / verilog
 * ⚒️ : MacOS / Visual Studio Code / Obsidian
 
-**More information 📚:**
+**More about 📚:**
 
 * 🔗 : [Homepage](https://syxb2.github.io) / [Bilibili](https://space.bilibili.com/24550465) / [Xiaohongshu](https://www.xiaohongshu.com/user/profile/63caa3bd0000000026006cf2)
 
