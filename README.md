@@ -6,7 +6,7 @@
 
 **I mainly 🎯:**
 
-* ✏️ : c / python / verilog
+* ✏️ : C / Python / Verilog
 * ⚒️ : MacOS / Visual Studio Code / Obsidian
 
 **More about 📚:**
