@@ -8,7 +8,7 @@
 
 * ✏️ : Python / Verilog
 * ⚒️ : MacOS / Visual Studio Code / Obsidian
-* 🔍 : Deep Learning / Large Language Model / FPGA Development
+* 🔍 : Large Language Model / Deep Learning / FPGA Development
 
 **More about 📚:**
 
