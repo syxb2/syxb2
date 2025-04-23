@@ -6,9 +6,9 @@
 
 **I mainly 🎯:**
 
-* ✏️ : Python / Verilog / C
+* ✏️ : Python / Verilog
 * ⚒️ : MacOS / Visual Studio Code / Obsidian
-* 🔍 : Deep Learning / Large Language Model / Natural Language Processing / FPGA
+* 🔍 : Deep Learning / Large Language Model / FPGA Development
 
 **More about 📚:**
 
