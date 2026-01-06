@@ -1,14 +1,14 @@
 ## Hi there, this is syxb2 👋🏻
 
-### **A undergraduate 🙋🏻 @ University of University of Electronic Science and Technology of China 🏫**
+**A undergraduate 🙋🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
-**I mainly 🎯:**
+### **I mainly 🎯:**
 
 * ✏️ : Python / Verilog / Swift
 * ⚒️ : MacOS / Visual Studio Code / Xcode / Obsidian
 * 🔍 : Large Language Model / Deep Learning / FPGA Development / iOS Development
 
-**More about 📚:**
+### **More about 📚:**
 
 * 🔗 : [Homepage](https://syxb2.github.io) / [Bilibili](https://space.bilibili.com/24550465) / [RedNote](https://www.xiaohongshu.com/user/profile/63caa3bd0000000026006cf2)
 
