@@ -1,4 +1,4 @@
-## Hi there, this is syxb2 👋🏻
+## Hi there, this is Carol 👋🏻
 
 **A undergraduate 🙋🏻 @ University of University of Electronic Science and Technology of China 🏫**
 
