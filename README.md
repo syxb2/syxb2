@@ -12,12 +12,12 @@
 
 * 🔗 : [Homepage](https://syxb2.github.io) / [Bilibili](https://space.bilibili.com/24550465) / [Rednote](https://www.xiaohongshu.com/user/profile/63caa3bd0000000026006cf2)
 
-<div align="center">
+<!-- <div align="center"> -->
 
 [![syxb2's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=syxb2&show_icons=true&rank_icon=github&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![syxb2's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=syxb2&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-</div>
+<!-- </div> -->
 
 ***
 
